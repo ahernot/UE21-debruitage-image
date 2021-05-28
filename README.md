@@ -10,7 +10,7 @@ Group project due 2021.05.28
 
 <br><br>
 
-
+<!--
 | Question | Status |
 |:--:|:--:|
 |1|done|
@@ -20,3 +20,4 @@ Group project due 2021.05.28
 |5|done|
 |6|?|
 |7|?|
+-->
