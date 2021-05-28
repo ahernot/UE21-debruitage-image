@@ -10,5 +10,13 @@ Group project due 2021.05.28
 
 <br><br>
 
-## To do
-* 
+
+| Question | Status |
+|:--:|:--:|
+|1|done|
+|2|?|
+|3|?|
+|4|?|
+|5|?|
+|6|?|
+|7|?|
