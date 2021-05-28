@@ -15,8 +15,8 @@ Group project due 2021.05.28
 |:--:|:--:|
 |1|done|
 |2|not done|
-|3|?|
-|4|?|
-|5|?|
+|3|done|
+|4|done|
+|5|done|
 |6|?|
 |7|?|
