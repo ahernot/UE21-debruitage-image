@@ -14,7 +14,7 @@ Group project due 2021.05.28
 | Question | Status |
 |:--:|:--:|
 |1|done|
-|2|?|
+|2|not done|
 |3|?|
 |4|?|
 |5|?|
